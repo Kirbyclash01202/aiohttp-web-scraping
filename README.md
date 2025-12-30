@@ -1,6 +1,6 @@
 # PythonでAIOHTTPを使用したWebスクレイピング
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
 
 本ガイドでは、PythonでAIOHTTPを使用してWebスクレイピングを行うための基本を解説します。
 
@@ -109,7 +109,7 @@ asyncio.run(scrape_quotes())
 
 この例では、[“Quotes to Scrape”](https://quotes.toscrape.com/) サイトからデータをスクレイピングする方法を説明します。
 
-![The target site](https://github.com/luminati-io/aiohttp-web-scraping/blob/main/Images/s_C07E0B72CB9153F9B6E6EF6B76FDCD439C9910ACC1C4E94E70E103EE716CD2E2_1737465124750_image.png)
+![The target site](https://github.com/bright-jp/aiohttp-web-scraping/blob/main/Images/s_C07E0B72CB9153F9B6E6EF6B76FDCD439C9910ACC1C4E94E70E103EE716CD2E2_1737465124750_image.png)
 
 RequestsやAIOHTTPのようなライブラリでは、GETリクエストを行うだけでページのHTMLコンテンツを直接取得できます。しかし、AIOHTTPは [異なるリクエストライフサイクル](https://docs.aiohttp.org/en/stable/http_request_lifecycle.html) で動作します。  
 
@@ -282,7 +282,7 @@ python3 scraper.py
 
 プロジェクトのルートフォルダに `quotes.csv` ファイルが作成されます。開くと、次のようになります。
 
-![The final quotes file](https://github.com/luminati-io/aiohttp-web-scraping/blob/main/Images/s_C07E0B72CB9153F9B6E6EF6B76FDCD439C9910ACC1C4E94E70E103EE716CD2E2_1737466185816_image.png)
+![The final quotes file](https://github.com/bright-jp/aiohttp-web-scraping/blob/main/Images/s_C07E0B72CB9153F9B6E6EF6B76FDCD439C9910ACC1C4E94E70E103EE716CD2E2_1737466185816_image.png)
 
 ## AIOHTTP for Web Scraping: Advanced Features and Techniques
 
